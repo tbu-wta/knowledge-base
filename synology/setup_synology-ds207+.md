@@ -1,8 +1,6 @@
 # Synology DS207+
 
-## Requirements
-
- ### Software
+## Softwarre Requirements
   * [Synology Assistant](https://www.synology.com/en-global/support/download)
   * [DSM](https://www.synology.com/en-global/support/download)
 

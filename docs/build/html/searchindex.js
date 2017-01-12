@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:50,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{index:0,modul:0,page:0,search:0},titles:["knowledge base"],titleterms:{base:0,document:[],indic:0,knowledg:0,tabl:0,welcom:[]}})
